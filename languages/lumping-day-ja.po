@@ -1,0 +1,92 @@
+# Copyright (C) 2017 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ykmrlp\n"
+"Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots/\n"
+"POT-Creation-Date: 2017-05-31 20:03+0900\n"
+"PO-Revision-Date: 2017-05-31 20:03+0900\n"
+"Last-Translator: yukimaru <tool@potalstyle.net>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: lumping-day.php\n"
+
+#: lumping-day.php:111
+msgid "<h1>lumping-day</h1>"
+msgstr "<h1>日付一括更新</h1>"
+
+#: lumping-day.php:115
+msgid "I can update the date of the draft article that is in a state collectively."
+msgstr "下書きの記事の日付を一括で更新することができます"
+
+#: lumping-day.php:126
+msgid "<p>There is not the article of the draft</p>"
+msgstr "<p>下書きの記事はありません。</p>"
+
+#: lumping-day.php:133
+msgid "Year"
+msgstr "年"
+
+#: lumping-day.php:139
+msgid "Month"
+msgstr "月"
+
+#: lumping-day.php:145 lumping-day.php:194
+msgid "Day"
+msgstr "日"
+
+#: lumping-day.php:151
+msgid "Hour"
+msgstr "時間"
+
+#: lumping-day.php:157
+msgid "Minute"
+msgstr "分"
+
+#: lumping-day.php:159
+msgid "now time"
+msgstr "現在の時間"
+
+#: lumping-day.php:165
+msgid "<p style=\"color:#FF0000;\">Please let a check enter to at least one</p>"
+msgstr "<p style=\"color:#FF0000;\">最低１つはチェックをつけてください。</p>"
+
+#: lumping-day.php:170
+msgid "<p style=\"color:#FF0000;\">Please enter in the calendar year.</p>"
+msgstr "<p style=\"color:#FF0000;\">西暦で入力してください。</p>"
+
+#: lumping-day.php:175
+msgid "<p style=\"color:#FF0000;\">I updated a date!</p>"
+msgstr "<p style=\"color:#FF0000;\">日付を更新しました！</p>"
+
+#: lumping-day.php:184
+msgid "Article list of drafts."
+msgstr "下書きの記事一覧"
+
+#: lumping-day.php:195
+msgid "Title"
+msgstr "タイトル"
+
+#: lumping-day.php:221
+msgid "SEND"
+msgstr "設定する"
+
+#: lumping-day.php:229
+msgid "SITE"
+msgstr "制作者"
+
+#~ msgid "Please let a check enter to at least one<br>"
+#~ msgstr "最低１はチェックしてください"
+
+#~ msgid "Please enter in the calendar year.<br>"
+#~ msgstr "西暦で入力してください"
+
+#~ msgid "I updated a date!<br>"
+#~ msgstr "更新しました"
